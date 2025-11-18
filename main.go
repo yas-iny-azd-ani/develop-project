@@ -20,4 +20,7 @@ func main() {
 	var weight float64
 	fmt.Print("enter your weight: ")
 	fmt.Scan(&weight)
+
+	fmt.Printf("name: %s\n", name)
+
 }
