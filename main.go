@@ -25,5 +25,6 @@ func main() {
 	fmt.Printf("age: %s\n", age)
 
 	fmt.Printf("height: %.2f\n", height)
+	fmt.Printf("weight: %.2f\n", weight)
 
 }
