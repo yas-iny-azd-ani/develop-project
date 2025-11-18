@@ -8,4 +8,8 @@ func main() {
 	var name string
 	fmt.Print("enter your name: ")
 	fmt.Scan(&name)
+
+	var age int
+	fmt.Print("enter your age: ")
+	fmt.Scan(&age)
 }
