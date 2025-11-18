@@ -24,4 +24,6 @@ func main() {
 	fmt.Printf("name: %s\n", name)
 	fmt.Printf("age: %s\n", age)
 
+	fmt.Printf("height: %.2f\n", height)
+
 }
