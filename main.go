@@ -22,5 +22,6 @@ func main() {
 	fmt.Scan(&weight)
 
 	fmt.Printf("name: %s\n", name)
+	fmt.Printf("age: %s\n", age)
 
 }
