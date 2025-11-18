@@ -12,4 +12,8 @@ func main() {
 	var age int
 	fmt.Print("enter your age: ")
 	fmt.Scan(&age)
+
+	var height float64
+	fmt.Print("enter your height: ")
+	fmt.Scan(&height)
 }
